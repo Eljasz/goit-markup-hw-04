@@ -144,16 +144,13 @@ header {
   letter-spacing: 0.02em;
   color: var(--primary-text-color);
 }
-.contact-icon:hover,
-.contact-icon:focus {
-  fill: currentColor;
-}
+
 .auth-nav .link:hover,
 .auth-nav .link:focus {
   color: var(--akcent-color);
 }
 .contact-icon {
-  fill: var(--icon-color);
+  fill: currentColor;
   margin-right: 10px;
 }
 /* section */
